@@ -16,18 +16,8 @@ Este proyecto implementa el Juego de la Vida de Conway utilizando **Spring Boot*
 - React + CSS
 - Axios para comunicación HTTP
 
-## Cómo ejecutar
-
-## Backend (Spring Boot)
-```bash
-cd backend-spring
-mvn spring-boot:run
-
 ---
 
-## README (English version)
-
-```markdown
 # Game of Life Algorithm
 
 This project implements Conway's Game of Life using **Spring Boot** for the backend and **React** for the frontend. It allows users to simulate generations of living and dead cells on an interactive grid.
@@ -45,10 +35,3 @@ This project implements Conway's Game of Life using **Spring Boot** for the back
 - Java + Spring Boot
 - React + CSS
 - Axios for HTTP communication
-
-## 🚀 How to run
-
-### Backend (Spring Boot)
-```bash
-cd backend-spring
-mvn spring-boot:run
