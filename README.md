@@ -18,11 +18,10 @@ Este proyecto implementa el Juego de la Vida de Conway utilizando **Spring Boot*
 
 ## Cómo ejecutar
 
-### Backend (Spring Boot)
+## Backend (Spring Boot)
 ```bash
 cd backend-spring
 mvn spring-boot:run
-
 
 ---
 
