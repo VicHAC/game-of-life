@@ -1,8 +1,8 @@
 # Algoritmo de Juego de la Vida
 
-Este proyecto implementa el famoso Juego de la Vida de Conway utilizando **Spring Boot** para el backend y **React** para el frontend. Permite simular generaciones de células vivas y muertas en una cuadrícula interactiva.
+Este proyecto implementa el Juego de la Vida de Conway utilizando **Spring Boot** para el backend y **React** para el frontend. Permite simular generaciones de células vivas y muertas en una cuadrícula interactiva.
 
-## 🧠 ¿Qué incluye?
+## ¿Qué incluye?
 
 - Simulación automática con control de velocidad
 - Contador de generaciones
@@ -10,13 +10,13 @@ Este proyecto implementa el famoso Juego de la Vida de Conway utilizando **Sprin
 - Cambio dinámico de tamaño
 - Avance manual por generación
 
-## 🛠 Tecnologías
+## Tecnologías
 
 - Java + Spring Boot
 - React + CSS
 - Axios para comunicación HTTP
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 ### Backend (Spring Boot)
 ```bash
@@ -26,14 +26,14 @@ mvn spring-boot:run
 
 ---
 
-## 📝 README (English version)
+## README (English version)
 
 ```markdown
 # Game of Life Algorithm
 
 This project implements Conway's Game of Life using **Spring Boot** for the backend and **React** for the frontend. It allows users to simulate generations of living and dead cells on an interactive grid.
 
-## 🧠 Features
+## Features
 
 - Automatic simulation with speed control
 - Generation counter
